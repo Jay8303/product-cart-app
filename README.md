@@ -1,6 +1,6 @@
 A simple React app to browse products, add them to a cart, switch between grid/table views, and persist cart items using localStorage.
 Setup Instructions:
-Clone the repo:git clone https://github.com/your-username/react-cart-app.git;      cd react-cart-app;
+Clone the repo:git clone https://github.com/Jay8303/product-cart-app.git;      cd react-cart-app;
 Install dependencies: npm install
 Run the app: npm start
 The app will be available at http://localhost:3000
